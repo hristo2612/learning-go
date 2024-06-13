@@ -13,4 +13,5 @@ func main() {
 	basics.ContinuatedFunc(11, 12, "hello", 5, 6)
 	fmt.Println(basics.Value1, basics.Value2, basics.Value3)
 	fmt.Println(basics.ShortVarDeclaration())
+	basics.SimpleForLoop()
 }
