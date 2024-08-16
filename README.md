@@ -1,6 +1,7 @@
 # Learning Go
 
 Deciding to learn go from the official [A Tour of Go](https://go.dev/tour/welcome/1).
+Also learning Go from Udemy Course: Go: The Complete Developer's Guide
 
 ## Tutorials
 
